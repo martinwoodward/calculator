@@ -5,7 +5,7 @@ describe('Arithmetic', function() {
       request.get('/arithmetic?operation=add&operand1=2&operand2=2')
           .expect(200)
           .end(function(err, res) {
-              expect(res.body).to.eql({ result: 5 });
+              expect(res.body).to.eql({ result: 4 });
               done();
           });
     });
