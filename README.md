@@ -10,8 +10,8 @@ to perform arithmetic on integers, and provides a test suite with mocha
 and chai.  The `mocha-junit-reporters` package is included to provide XML
 output that can be presented in a test coverage tool.
 
-To build, simply:
+To build:
 
-1. Runs `npm install` to install dependencies.
-2. Runs `npm test` to run Mocha and execute the unit tests.
+1. `npm install` to install dependencies.
+2. `npm test` to run Mocha and execute the unit tests.
 
