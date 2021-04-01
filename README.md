@@ -12,6 +12,6 @@ output that can be presented in a test coverage tool.
 
 To build:
 
-1. `npm install` to install dependencies.
+1. `npm install` to install dependencies. 
 2. `npm test` to run Mocha and execute the unit tests.
 
